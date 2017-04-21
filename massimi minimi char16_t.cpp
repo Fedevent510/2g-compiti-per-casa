@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+char main()
 
 {
 char max = 32,767;
